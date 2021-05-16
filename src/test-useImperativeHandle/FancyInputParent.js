@@ -12,7 +12,7 @@ function FancyInputParent() {
         <>
             <header>7. test useImperativeHandle hook</header>
             <FancyInput ref={inputRef} />
-            <button onClick={onButtonClick}>Donner le focus au FancyInput component 1</button>
+            <button onClick={onButtonClick}>Donner le focus au FancyInput component 2</button>
 
         </>
     );

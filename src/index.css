@@ -6,7 +6,27 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
+ header {
+   font-style: italic;
+   font-size: 1.5rem;
+   margin-top: 1rem;
+ }
+ div{
+   font-size: 1.0rem;
+   margin-top: 0;
+ }
+ p{
+      font-size: 0.9rem;
+       margin-bottom: 0.3rem;
+}
+button{
+  margin-top: 0.1rem;
+  margin-bottom: 0.3rem;
+}
+input{
+  margin-top: 0.1rem;
+  margin-bottom: 0.3rem;
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
